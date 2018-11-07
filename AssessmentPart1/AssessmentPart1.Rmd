@@ -106,5 +106,5 @@ The first thing to consider for this map is that the data is somehow stale: the 
 ## QGIS Final Map
 
 ```{r}
-include_graphics("/Users/pilimayora/Documents/QGIS/GIS_Week4/NBI_CABA_with_legend.png")
+include_graphics("GISAssignment1_files/NBI_CABA_with_legend.png")
 ```

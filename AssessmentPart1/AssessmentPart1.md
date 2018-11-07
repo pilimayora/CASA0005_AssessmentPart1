@@ -80,7 +80,7 @@ mapaPorcentajeVerdeByComuna <- tm_basemap() + tm_shape(comunasAndEspacios) + tm_
 tmap_arrange(mapaEspaciosVerdes, mapaPorcentajeVerdeByComuna)
 ```
 
-<img src="GISAssignment1_files/figure-html/unnamed-chunk-5-1.png" width="100%" />
+<img src="AssessmentPart1_files/figure-html/unnamed-chunk-5-1.png" width="100%" />
 
 # Unsatisfied Basic Needs in Buenos Aires
 
@@ -102,7 +102,7 @@ The first thing to consider for this map is that the data is somehow stale: the 
 
 
 ```r
-include_graphics("/Users/pilimayora/Documents/QGIS/GIS_Week4/NBI_CABA_with_legend.png")
+include_graphics("GISAssignment1_files/NBI_CABA_with_legend.png")
 ```
 
-<img src="/Users/pilimayora/Documents/QGIS/GIS_Week4/NBI_CABA_with_legend.png" width="3507" />
+<img src="GISAssignment1_files/NBI_CABA_with_legend.png" width="3507" />
